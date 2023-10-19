@@ -1,0 +1,29 @@
+{
+  "people": [
+    {
+      "id": 1,
+      "name": "Adam niezgoda",
+      "age": 21
+    },
+    {
+      "id": 2,
+      "name": "Mieszko Walus",
+      "age": 20
+    },
+    {
+      "id": 3,
+      "name": "Andrzej Lajsota",
+      "age": 19
+    },
+    {
+      "id": 3,
+      "name": "krystyna Ruchlionski",
+      "age": 13
+    },
+    {
+      "id": 4,
+      "name": "Alicja kombajn",
+      "age": 78
+    }
+  ]
+}
